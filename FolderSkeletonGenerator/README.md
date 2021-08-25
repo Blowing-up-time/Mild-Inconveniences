@@ -1,7 +1,7 @@
 # Folder Skeleton Generator
 Basically i needed to re-order my folders, but that's boring so i pulled this out of my ass.
 in my opinion the coding is some of the best i've done, probably a few things here and there i could touch up a bit (the variable fds for example)
-anyways enjoy
+anyways enjoy. if you don't want to build it yourself, the .exe you need to run is in bin\Release\netcoreapp3.1
 
 # Usage
 FSG --file <filename> <br />
