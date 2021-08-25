@@ -1,0 +1,13 @@
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\bin\Release\netcoreapp3.1\FSG.exe
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\bin\Release\netcoreapp3.1\FSG.deps.json
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\bin\Release\netcoreapp3.1\FSG.runtimeconfig.json
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\bin\Release\netcoreapp3.1\FSG.runtimeconfig.dev.json
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\bin\Release\netcoreapp3.1\FSG.dll
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\bin\Release\netcoreapp3.1\FSG.pdb
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\obj\Release\netcoreapp3.1\FolderSkeletonGenerator.csprojAssemblyReference.cache
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\obj\Release\netcoreapp3.1\FolderSkeletonGenerator.AssemblyInfoInputs.cache
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\obj\Release\netcoreapp3.1\FolderSkeletonGenerator.AssemblyInfo.cs
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\obj\Release\netcoreapp3.1\FolderSkeletonGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\obj\Release\netcoreapp3.1\FSG.dll
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\obj\Release\netcoreapp3.1\FSG.pdb
+C:\Users\Zac\source\repos\FolderSkeletonGenerator\obj\Release\netcoreapp3.1\FolderSkeletonGenerator.genruntimeconfig.cache
