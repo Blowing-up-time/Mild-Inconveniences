@@ -17,4 +17,4 @@ else:
 	filepath = "/sdcard/DCIM/Camera/" + filename + ".jpg"
 
 # RUn command
-os.system("adb pull " + filepath + " .")
+os.system("adb pull \"" + filepath + "\" .")
