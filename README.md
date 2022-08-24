@@ -13,7 +13,7 @@ so i realised that not having a license will genreally be a turnoff to people, s
 # Current Tools
 
 ## Mobile Apk Decompiler
-I hated the fact that I would go to the play store and look up Apk Decompiler, and find something that literally does an unzip on the apk or something that does minimal source code revealing (dissapointing), so i made this. Powered by Jadx, though slightly modified to suit the slightly different APIs
+I hated the fact that I would go to the play store and look up Apk Decompiler, and find something that literally does an unzip on the apk or something that does minimal source code revealing (dissapointing), so i made this. Powered by Jadx, though modified to suit the slightly different APIs
 
 ## Elevate
 Literally a bat file that launches an elevated command prompt, and retains the current directory
